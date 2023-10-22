@@ -9,6 +9,7 @@
 <p>cd db directory 
  ``` json-server --watch db.json --port 5000 ``` 
   You can also use your own db by changing setupProxy.js config </p>
+```s ```
 <p>cd react </p>
 <p>npm i  npm start</p>
 <hr>
