@@ -7,9 +7,9 @@
 <h2>Project installation</h2>
 <p>git clone --https://github.com/YanzeLiiiiiiiiii/React-webpack-redux-ant-design-axios-NewsManagementSystem.git </p>
 <p>cd db directory 
- ``` json-server --watch db.json --port 5000 ``` 
+' json-server --watch db.json --port 5000 '
   You can also use your own db by changing setupProxy.js config </p>
-```s ```
+
 <p>cd react </p>
 <p>npm i  npm start</p>
 <hr>
