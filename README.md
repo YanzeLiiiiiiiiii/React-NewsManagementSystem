@@ -17,5 +17,5 @@
 <p>npm run testing</p>
 <hr>
 <h2>Data format returned from db is JSON </h2>
-
+![Alt text](addnews.gif)
 <hr>
