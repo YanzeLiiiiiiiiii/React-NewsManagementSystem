@@ -5,27 +5,17 @@
 <p>node + react+ react-redux+ react-router + webpack + axios + antd+ json server</p>
 <hr>
 <h2>Project installation</h2>
-<p>git clone --https://github.com/YanzeLiiiiiiiiii/React-webpack-redux-ant-design-axios-NewsManagementSystem.git </p>
-<p>cd db directory and start server by using <b> json-server --watch db.json --port 5000 </b> you can also use your own db by changing setupProxy.js config </p>
+<p>1.git clone --https://github.com/YanzeLiiiiiiiiii/React-webpack-redux-ant-design-axios-NewsManagementSystem.git </p>
+<p>2.cd db directory and start server by using <p><b> json-server --watch db.json --port 5000 </b></p> you can also use your own db by changing setupProxy.js config </p>
 
  
-<p>cd react </p>
-<p>npm i  npm start</p>
+<p>3.cd react </p>
+<p>4.npm i  npm start</p>
 <hr>
 <h2>Final build command </h2>
 <p>npm run build </p>
 <p>npm run testing</p>
 <hr>
-<h2>Data format returned from db </h2>
-``` 
-  {
-      "id": 1,
-      "username": "admin",
-      "password": 123456,
-      "roleState": true,
-      "default": true,
-      "region": "",
-      "roleId": 1
-    },
-```
+<h2>Data format returned from db is JSON </h2>
+
 <hr>
