@@ -1,0 +1,10 @@
+.LoginForm {
+    position: fixed;
+    width: 28rem;
+    height: 25rem;
+    top: 50%;
+    left: 50%;
+    transform: translate(-70%, -30%);
+    text-align: center;
+
+}
