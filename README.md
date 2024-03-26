@@ -2,10 +2,10 @@
 <p>Role based backend news management system</p>
 <ul>
  <li>root user: username: admin  password: admin (simply use it to explore, more user info store in the db folder-db.json )</li>
+   <h3>Functions include</h3>
   <ul>
-   <Functions include:
     <li>
-     upload news
+     Upload news
   </li>
       <li>
      Audit news
@@ -14,12 +14,12 @@
      CRUD news
   </li>
       <li>
-    Modify Permission
+    CRUD  Permission
   </li>
     <li>
     Graph analysis
   </li>
-     </li>
+   </li>
    
   </ul>
 </ul>
