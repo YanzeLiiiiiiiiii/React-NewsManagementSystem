@@ -1,5 +1,30 @@
 <h2>Description</h2>
 <p>Role based backend news management system</p>
+<ul>
+ <li>root user: username: admin  password: admin (simply use it to explore, more user info store in the db folder-db.json )</li>
+  <ul>
+   <p>Functions include:</p>
+    <li>
+     upload news
+  </li>
+      <li>
+     Audit news
+  </li>
+      <li>
+     CRUD news
+  </li>
+      <li>
+    Modify Permission
+  </li>
+    <li>
+    Graph analysis
+  </li>
+     </li>
+    <li>
+    
+  </li>
+  </ul>
+</ul>
 <hr>
 <h2>Tech Stack</h2>
 <p>node + react+ react-redux+ react-router + webpack + axios + antd+ json server</p>
