@@ -3,7 +3,7 @@
 <ul>
  <li>root user: username: admin  password: admin (simply use it to explore, more user info store in the db folder-db.json )</li>
   <ul>
-   <p>Functions include:</p>
+   <Functions include:
     <li>
      upload news
   </li>
@@ -20,9 +20,7 @@
     Graph analysis
   </li>
      </li>
-    <li>
-    
-  </li>
+   
   </ul>
 </ul>
 <hr>
